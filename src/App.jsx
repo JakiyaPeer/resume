@@ -10,7 +10,7 @@ const Resume = () => {
       <section className="mt-6">
         <h2 className="text-xl font-bold text-blue-600 border-b pb-2">Education</h2>
         <p className="mt-2"><strong>Duthie Higher Secondary School, Nagercoil</strong></p>
-        <p>MUSLIM ARTS COLLEGE, THIRUVITHAMCODE — BSc Computer Science (2019-2020)</p>
+        <p>MUSLIM ARTS COLLEGE, THIRUVITHAMCODE — BSc Computer Science (2016-2019)</p>
         <p>Manonmaniam Sundaranar University</p>
       </section>
       
